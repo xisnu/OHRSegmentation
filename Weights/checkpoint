@@ -1,0 +1,3 @@
+model_checkpoint_path: "Segmentation_Classifier_best"
+all_model_checkpoint_paths: "Segmentation_Classifier_last"
+all_model_checkpoint_paths: "Segmentation_Classifier_best"
